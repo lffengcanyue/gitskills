@@ -5,4 +5,5 @@ master line third
 master line second
 i am other man
 i am other man second
-bugfix change
+bugfix
+i am other man third
