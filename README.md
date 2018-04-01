@@ -2,3 +2,4 @@
 my first push
 Creating a new branch is quick and simple.confict
 master line second
+i am other man
