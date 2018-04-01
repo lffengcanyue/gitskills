@@ -1,3 +1,3 @@
 # gitskills
 my first push
-new dev branch test 
+Creating a new branch is quick and simple.
